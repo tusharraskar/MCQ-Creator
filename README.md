@@ -1,6 +1,6 @@
 # MCQ Creator using Large Language Models (LLM)
 
-A Jupyter notebook-based pipeline that uses advanced language models like OpenAI's GPT models to generate Multiple Choice Questions (MCQs) from a given text input.
+A Jupyter notebook-based pipeline that uses advanced language models like OpenAI's GPT models to generate Multiple Choice Questions (MCQs) from a given PDF input.
 
 ## Problem Statement
 
